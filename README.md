@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Ayush Panchal 👋</h1>
 
-<!--
-**Ayush-panchal2004/Ayush-panchal2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍🔬 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BSc in Physics + BS in Electronic Systems @ IIT Madras  
+- 🔭 Focused on Quantum Computing, Embedded Systems, and Theoretical Physics  
+- 🛠️ Skilled in Python, C, Verilog, and Simulation Tools  
+- 📚 Preparing for MSc + PhD in Quantum Physics (IISc or Japan 🇯🇵)  
+- 🚀 Building open-source tools for quantum research and visualization
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK_HERE)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@YOUR_USERNAME)
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-FFA500?style=for-the-badge)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF69B4?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF4088?style=for-the-badge&logo=matplotlib&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Digital Logic](https://img.shields.io/badge/DigitalLogic-009688?style=for-the-badge)
+
+---
+
+## 🚀 Current Projects
+
+- 🧠 Quantum Circuit Simulator (Python GUI using Tkinter)
+- 🌀 Quantum Tunneling Visualizer with Wavepackets
+- 🔐 Quantum State Analyzer with Entropy & Entanglement Tools
+
+---
+
+## 📊 GitHub Stats
+
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react)
+
+---
