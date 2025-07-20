@@ -14,7 +14,7 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINK_HERE](https://www.linkedin.com/in/ayush-panchal-53214636a/))
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@YOUR_USERNAME)
 
 ---
