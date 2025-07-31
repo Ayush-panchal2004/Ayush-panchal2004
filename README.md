@@ -7,14 +7,14 @@
 - 🎓 BSc in Physics + BS in Electronic Systems @ IIT Madras  
 - 🔭 Focused on Quantum Computing, Embedded Systems, and Theoretical Physics  
 - 🛠️ Skilled in Python, C, Verilog, and Simulation Tools  
-- 📚 Preparing for MSc + PhD in Quantum Physics (IISc or Japan 🇯🇵)  
+- 📚 Preparing for MSc + PhD in Quantum Physics (IISc/IITM or Japan 🇯🇵)  
 - 🚀 Building open-source tools for quantum research and visualization
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINK_HERE](https://www.linkedin.com/in/ayush-panchal-53214636a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-panchal-53214636a/)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@YOUR_USERNAME)
 
 ---
