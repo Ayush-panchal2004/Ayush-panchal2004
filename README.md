@@ -14,8 +14,7 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-panchal-53214636a/)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-panchal-53214636a
 
 ---
 
@@ -44,7 +43,7 @@
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react)
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-panchal2004&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-panchal2004&layout=compact&theme=react)
 
 ---
