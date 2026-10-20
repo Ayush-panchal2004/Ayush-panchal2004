@@ -1,81 +1,77 @@
 <h1 align="center">Hi there, I'm Ayush Panchal 👋</h1>
+<p align="center">
+  <b>BSc in Physics + BS in Electronic Systems @ IIT Madras</b><br>
+  <i>Bridging Theoretical Physics, Custom Silicon (RTL), and Quantum Computing Architectures</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-panchal-53214636a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:24f1100131@ds.study.iitm.ac.in"><img src="https://img.shields.io/badge/Email-IIT%20Madras-800000?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Location-India-blue?style=flat" alt="Location"/>
+</p>
 
 ---
 
 ## 🧑‍🔬 About Me
 
-- 🎓 BSc in Physics + BS in Electronic Systems @ IIT Madras  
-- 🔭 Focused on Quantum Computing, Hardware Acceleration, and Advanced Physics Research  
-- 🛠️ Skilled in **Python, C, TypeScript, Verilog, SystemVerilog**, and Hardware Design Tools  
-- 🏗️ Architecting custom RTL IP for scientific computing acceleration and physics simulation  
-- 📚 Pursuing MSc + PhD in Quantum Physics (IISc/IITM or Japan 🇯🇵)  
-- 🚀 Building open-source tools for quantum research, visualization, and custom silicon design
+- 🎓 **Dual Background:** BSc in Physics & BS in Electronic Systems from **Indian Institute of Technology Madras (IIT Madras)**.
+- 🔬 **Core Focus:** Hardware Acceleration for Scientific Computing, Quantum Control Silicon, and Cryogenic CMOS/FPGA Architectures.
+- ⚡ **RTL & Silicon Design:** Designing custom SystemVerilog accelerators from first principles (IEEE-754 arithmetic, pipelined binary trees, AXI4-Stream interfaces).
+- 🎯 **Academic Trajectory:** Aspiring to pursue MSc + PhD in Quantum Physics & Quantum Hardware (IISc / IITM / Japan 🇯🇵).
+- 🚀 **Open Source:** Developing physics simulators, quantum circuit emulators, and open-source silicon IP.
 
 ---
 
-## 🌐 Socials
+## 🛠️ Hardware & Software Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-panchal-53214636a)
-
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FFA500?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B35?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FF4088?style=for-the-badge&logo=matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Digital Logic](https://img.shields.io/badge/DigitalLogic-009688?style=for-the-badge)
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Hardware Description & EDA** | **SystemVerilog**, **Verilog**, **AMD Xilinx Vivado**, **Yosys**, **Icarus Verilog**, **GTKWave**, **XSim** |
+| **FPGA & Embedded SoCs** | **Xilinx Zynq-7000 (Zynq-7020)**, **PYNQ-Z2**, **AXI4 / AXI4-Stream**, **AXI DMA**, **FPGA Constraints (XDC)** |
+| **Scientific Computing & Langs**| **Python**, **C / C++**, **TypeScript**, **NumPy**, **SciPy**, **Matplotlib** |
+| **Quantum & Physics Tools** | **Qiskit**, Quantum Circuit Emulation, Wavepacket Tunnelling Dynamics, SuiteSparse Benchmarking |
+| **Environment & DevOps** | **Linux / Bash**, **Git**, **GitHub**, **LaTeX** |
 
 ---
 
-## 🚀 Current Projects & Focus Areas
+## 🏆 Featured Hardware Project
 
-### **Hardware Acceleration for Scientific Computing**
-Bridging theoretical physics and electronic systems by designing custom RTL IP architectures to accelerate complex physics simulations (FEM, molecular dynamics, quantum mechanics) at the hardware level, pushing performance beyond standard CPU/GPU bottlenecks.
+### ⚡ [SIPP V2: Parametric FP32 Sparse Matrix-Vector (SpMV) Accelerator](https://github.com/Ayush-panchal2004/SIPP-V2-FPGA-Accelerator)
+> *Capstone Project for BS Electronic Systems, IIT Madras (Roll: 24F1100131)*
 
-### **Custom Silicon & IP Development** 
-Architecting and verifying novel hardware accelerators for real-time scientific computing, involving:
-- Deep pipelining and memory bandwidth optimization  
-- Custom FSM design and control logic
-- Performance-critical datapath design  
-*(Currently in private repositories pending IP/patent filings)*
-
-### **Quantum Computing & Simulation**
-Building open-source visualization and simulation tools for quantum mechanics:
-- **[3-Qubit Quantum Circuit Simulator](https://github.com/Ayush-panchal2004/3-Qubit-Quantum-Circuit-Simulator)** - C implementation for efficient circuit simulation
-- **[Quantum Tunnelling Visualizer](https://github.com/Ayush-panchal2004/Quantum-tunnelling)** - Wavepacket dynamics and quantum phenomena visualization
-- **[Quantum Circuit Simulator](https://github.com/Ayush-panchal2004/Quantum_Circuit_Simulator)** - Python-based GUI with state analysis and entanglement tools
-
-### **AI/ML Research**
-Exploring cutting-edge applications of AI in scientific computing:
-- **[YANTRA (Yoked-AI-Native-Theoretical-Research-Apparatus)](https://github.com/Ayush-panchal2004/YANTRA-Yoked-AI-Native-Theoretical-Research-Apparatus)** - AI3
-- **[AI2 & AI Research Projects](https://github.com/Ayush-panchal2004/AI2)** - Advanced ML frameworks
-
-### **Full-Stack Scientific Computing Platform**
-- **[V.E.D.A.](https://github.com/Ayush-panchal2004/V.E.D.A.)** - Comprehensive tool for scientific visualization and data analysis combining Python, JavaScript, and modern web technologies
+- **Silicon Architecture:** Custom IEEE-754 FP32 arithmetic unit built from first principles (zero third-party math IP reliance) with a parametric $N$-input pipelined binary reduction adder tree ($O(\log_2 N)$ latency).
+- **Physical Deployment:** Deployed on **Xilinx Zynq-7000 SoC (xc7z020 / PYNQ-Z2)** at 100 MHz via **AXI4-Stream** and **AXI DMA**.
+- **Hardware Footprint:** Only **3,176 LUTs (5.97%)** and **8 DSP48E1 slices** with zero timing violations ($\text{WNS} = +2.14\text{ ns}$).
+- **Validation:** 100% numerical accuracy verified against 285 rows of canonical **SuiteSparse matrices** (Boeing structural stiffness & Navier-Stokes CFD).
+- 📄 **[Read Full IEEE-Style Technical Report (PDF)](https://github.com/Ayush-panchal2004/SIPP-V2-FPGA-Accelerator/blob/main/docs/Electronic_System_Project_Report_24F1100131.pdf)**
 
 ---
 
-## 🎯 Long-term Vision
+## 🚀 Research & Open-Source Projects
 
-My goal is to **merge quantum physics with custom silicon design**. I aim to:
-- Pursue an MSc/PhD in Quantum Physics (IISc/IITM or Japan)
-- Design next-generation custom silicon and instrumentation for experimental quantum computing
-- Develop specialized hardware accelerators for advanced physics research
-- Make quantum computing more accessible through open-source tools and visualization
+### ⚛️ Quantum Computing & Simulation
+- **[3-Qubit Quantum Circuit Simulator](https://github.com/Ayush-panchal2004/3-Qubit-Quantum-Circuit-Simulator)** — High-performance C implementation modeling statevector evolutions and unitary gates.
+- **[Quantum Tunnelling Visualizer](https://github.com/Ayush-panchal2004/Quantum-tunnelling)** — Real-time wavepacket dynamics simulation across finite potential barriers.
+- **[Quantum Circuit Simulator](https://github.com/Ayush-panchal2004/Quantum_Circuit_Simulator)** — Python/GUI simulator featuring density matrix analysis and entanglement quantification.
+
+### 🔬 Scientific Computing Platforms & Research
+- **[V.E.D.A.](https://github.com/Ayush-panchal2004/V.E.D.A.)** — Full-stack scientific visualization engine uniting Python computation with responsive web UI.
+- **[YANTRA](https://github.com/Ayush-panchal2004/YANTRA-Yoked-AI-Native-Theoretical-Research-Apparatus)** — Machine learning framework exploring accelerated symbolic physics derivations.
+
+---
+
+## 🎯 Long-Term Vision
+
+My research objective is to bridge **Theoretical Quantum Mechanics with Physical Silicon Engineering**:
+1. Architect specialized cryogenic-compatible CMOS/FPGA control hardware for superconducting and trapped-ion qubits.
+2. Pioneer custom domain-specific hardware accelerators for real-time quantum many-body simulations and tensor network contractions.
+3. Make experimental quantum computing accessible via open-source simulation tools.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-panchal2004&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-panchal2004&layout=compact&theme=react)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-panchal2004&show_icons=true&theme=react&rank_icon=github" alt="Ayush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-panchal2004&layout=compact&theme=react" alt="Top Languages" />
+</p>
