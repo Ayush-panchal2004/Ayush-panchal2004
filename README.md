@@ -16,7 +16,7 @@
 
 - 🎓 **Dual Background:** BSc in Physics & BS in Electronic Systems from **Indian Institute of Technology Madras (IIT Madras)**.
 - 🔬 **Core Focus:** Hardware Acceleration for Scientific Computing, Quantum Control Silicon, and Cryogenic CMOS/FPGA Architectures.
-- ⚡ **RTL & Silicon Design:** Designing custom SystemVerilog accelerators from first principles (IEEE-754 arithmetic, pipelined binary trees, AXI4-Stream interfaces).
+- ⚡ **RTL & Silicon Design:** Designing custom SystemVerilog accelerators from first principles (IEEE-754 arithmetic, 2D systolic arrays, pipelined binary trees, AXI4 bus protocols).
 - 🎯 **Academic Trajectory:** Aspiring to pursue MSc + PhD in Quantum Physics & Quantum Hardware (IISc / IITM / Japan 🇯🇵).
 - 🚀 **Open Source:** Developing physics simulators, quantum circuit emulators, and open-source silicon IP.
 
@@ -27,23 +27,34 @@
 | Domain | Technologies & Tools |
 | :--- | :--- |
 | **Hardware Description & EDA** | **SystemVerilog**, **Verilog**, **AMD Xilinx Vivado**, **Yosys**, **Icarus Verilog**, **GTKWave**, **XSim** |
-| **FPGA & Embedded SoCs** | **Xilinx Zynq-7000 (Zynq-7020)**, **PYNQ-Z2**, **AXI4 / AXI4-Stream**, **AXI DMA**, **FPGA Constraints (XDC)** |
+| **FPGA & Embedded SoCs** | **Xilinx Zynq-7000 (Zynq-7020)**, **PYNQ-Z2**, **AXI4 / AXI4-Stream**, **AXI4-Lite**, **AXI DMA**, **FPGA Constraints (XDC)** |
 | **Scientific Computing & Langs**| **Python**, **C / C++**, **TypeScript**, **NumPy**, **SciPy**, **Matplotlib** |
 | **Quantum & Physics Tools** | **Qiskit**, Quantum Circuit Emulation, Wavepacket Tunnelling Dynamics, SuiteSparse Benchmarking |
 | **Environment & DevOps** | **Linux / Bash**, **Git**, **GitHub**, **LaTeX** |
 
 ---
 
-## 🏆 Featured Hardware Project
+## 🏆 Featured Hardware Accelerators (IIT Madras Capstones)
 
-### ⚡ [SIPP V2: Parametric FP32 Sparse Matrix-Vector (SpMV) Accelerator](https://github.com/Ayush-panchal2004/SIPP-V2-FPGA-Accelerator)
-> *Capstone Project for BS Electronic Systems, IIT Madras (Roll: 24F1100131)*
+### 1. ⚡ [SIPP V2: Parametric FP32 Sparse Matrix-Vector (SpMV) Accelerator](https://github.com/Ayush-panchal2004/SIPP-V2-FPGA-Accelerator)
+> *Capstone for Electronic System Project, IIT Madras (Roll: 24F1100131)*
 
 - **Silicon Architecture:** Custom IEEE-754 FP32 arithmetic unit built from first principles (zero third-party math IP reliance) with a parametric $N$-input pipelined binary reduction adder tree ($O(\log_2 N)$ latency).
 - **Physical Deployment:** Deployed on **Xilinx Zynq-7000 SoC (xc7z020 / PYNQ-Z2)** at 100 MHz via **AXI4-Stream** and **AXI DMA**.
-- **Hardware Footprint:** Only **3,176 LUTs (5.97%)** and **8 DSP48E1 slices** with zero timing violations ($\text{WNS} = +2.14\text{ ns}$).
+- **Hardware Footprint:** Only **3,176 LUTs (5.97%)** and **8 DSP48E1 slices** with clean timing closure ($\text{WNS} = +2.14\text{ ns}$).
 - **Validation:** 100% numerical accuracy verified against 285 rows of canonical **SuiteSparse matrices** (Boeing structural stiffness & Navier-Stokes CFD).
 - 📄 **[Read Full IEEE-Style Technical Report (PDF)](https://github.com/Ayush-panchal2004/SIPP-V2-FPGA-Accelerator/blob/main/docs/Electronic_System_Project_Report_24F1100131.pdf)**
+
+---
+
+### 2. 🔲 [SPU V2: 2D Systolic Array Hardware Coprocessor](https://github.com/Ayush-panchal2004/Systolic-Array-Hardware-Coprocessor)
+> *Capstone for Signal Processing Project, IIT Madras (Roll: 24F1100131)*
+
+- **Silicon Architecture:** Parameterized $4 \times 4$ ($N \times N$) **2D Systolic MAC Array** for accelerating physical state-space differential equations with spatial data reuse, reducing memory traffic from $O(N^3)$ to $O(N^2)$.
+- **Dual-Plane AXI Control:** Decoupled **128-bit AXI4-Stream** high-bandwidth data plane + **AXI4-Lite** control plane with memory-mapped register bank and CPU hardware interrupt (**IRQ**).
+- **Synthesis:** Clean gate-level netlist of **29,524 cells** and **~1,586 flip-flops** synthesized via Yosys with zero errors.
+- **Verification:** Bit-exact numerical verification matching second-order spring-mass-damper physics baselines.
+- 📄 **[Read Full Project Report (PDF)](https://github.com/Ayush-panchal2004/Systolic-Array-Hardware-Coprocessor/blob/main/docs/Hardware_Coprocessor_Report.pdf)** | 📊 **[Slide Deck (PDF)](https://github.com/Ayush-panchal2004/Systolic-Array-Hardware-Coprocessor/blob/main/docs/Hardware_Coprocessor_Slides.pdf)**
 
 ---
 
